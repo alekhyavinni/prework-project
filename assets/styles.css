@@ -33,15 +33,15 @@ ul{
     font-size: 20px;
 }
 
-p{
+p , h3{
     text-align: center;
-    font-size: 30px;
-    color:blueviolet;
+    font-size: 20px;
+    color:darkblue;
 }
 
 .card{
     width: 800px;
-    height: 150px;
+    height: 180px;
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
